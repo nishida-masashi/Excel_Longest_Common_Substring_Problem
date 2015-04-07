@@ -6,3 +6,11 @@ C:\Users\nishida.masashi\AppData\Local\Temporary Projects\ConsoleApplication1\ob
 C:\Users\nishida.masashi\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\nishida.masashi\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
 C:\Users\nishida.masashi\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\nishida.masashi\Documents\GitHub\Excel_Longest_Common_Substring_Problem\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
